@@ -6,11 +6,14 @@
 ![GitHub license](https://img.shields.io/github/license/Techiral/STAR)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-friendly-orange)](https://hacktoberfest.digitalocean.com/)
 
+
 **Fiction To Reality**
 
 STAR (Sci-fi Techiral Assistant Robot) is an open-source project dedicated to bringing science fiction to reality. Inspired by the AI-based assistants seen in sci-fi movies and anime shows, STAR is designed to be a community-driven effort to create a futuristic AI assistant using Python.
 
 🚀 **Explore the Future**: Dive into the world of sci-fi technology and embark on a journey from fiction to reality with STAR.
+
+---
 
 ## Get Started
 
@@ -19,15 +22,21 @@ To get started with STAR, you can:
 1. Clone the repository: `git clone https://github.com/Techiral/STAR.git`
 2. Check out the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
 
+---
+
 ## Project Links
 
 - [STAR on GitHub](https://github.com/Techiral/STAR)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-### Related Hacktoberfest Projects
+---
+
+## Related Hacktoberfest Projects
 
 - [A-Z Python Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [AI-OctoFusion](https://github.com/Techiral/AI-OctoFusion)
+
+---
 
 ## Features
 
@@ -35,6 +44,8 @@ To get started with STAR, you can:
 - 🐍 Written in Python - easy to understand and modify.
 - 🤝 Open for contributions - join us on the journey from fiction to reality.
 - 🎯 Hacktoberfest-friendly - perfect for your Hacktoberfest contributions.
+
+---
 
 ## Contributing
 
@@ -50,9 +61,13 @@ Please ensure your code adheres to the project's coding standards and passes any
 
 For more details, check our [Contribution Guidelines](CONTRIBUTING.md).
 
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## Support
 
