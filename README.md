@@ -1,4 +1,4 @@
-#        **JARVIS: Your AI Overlord**
+# **JARVIS: Your AI Overlord**
 
 <img src="https://github.com/Techiral/Jarvis/blob/main/Beige%20Minimalist%20Structure%20Organizational%20Chart%20Graph.png?raw=true" alt="JARVIS Flowchart">
 
