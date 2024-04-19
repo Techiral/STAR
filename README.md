@@ -1,6 +1,6 @@
-<img src="https://github.com/Techiral/Jarvis/blob/main/Beige%20Minimalist%20Structure%20Organizational%20Chart%20Graph.png?raw=true" alt="JARVIS Flowchart">
+#        **JARVIS: Your AI Overlord**
 
-<h1 style="text-align: center;">JARVIS: Your AI Overlord</h1>
+<img src="https://github.com/Techiral/Jarvis/blob/main/Beige%20Minimalist%20Structure%20Organizational%20Chart%20Graph.png?raw=true" alt="JARVIS Flowchart">
 
 
 **Welcome to JARVIS, the world's first and most advanced AI assistant, inspired by the iconic JARVIS from the Iron Man films!**
