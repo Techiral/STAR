@@ -1,13 +1,13 @@
-# **JARVIS: Your AI Overlord**
+<h1 align="center">JARVIS: The Next Gen AI.<br> <br> </h1>
+<h1 align="center"><img src="https://github.com/Techiral/Jarvis/blob/main/Beige%20Minimalist%20Structure%20Organizational%20Chart%20Graph.png?raw=true" alt="JARVIS Flowchart"></h1>
 
-<img src="https://github.com/Techiral/Jarvis/blob/main/Beige%20Minimalist%20Structure%20Organizational%20Chart%20Graph.png?raw=true" alt="JARVIS Flowchart">
 
+<h2 align="center">Power up with JARVIS, the ultimate AI.</h2>
 
-**Welcome to JARVIS, the world's first and most advanced AI assistant, inspired by the iconic JARVIS from the Iron Man films!**
+<p align="center"><b>JARVIS is not just an AI assistant; it's your intelligent personal companion, designed to augment your life and make you a superhuman force.</b></p>
 
-JARVIS is not just an AI assistant; it's your intelligent personal companion, designed to augment your life and make you a superhuman force. 
-
-**Get Started**
+<br><br>
+# Get Started
 
 To unleash the power of JARVIS, follow these steps:
 
@@ -31,14 +31,14 @@ pip install -r requirements.txt
 ```bash
 python jarvis.py
 ```
+<be>
 
-**Features**
+# Features
 
 JARVIS is packed with a plethora of features that will transform your world, including:
 
 * **Object Recognition (YOLO/Open CV):** JARVIS can identify and classify objects in real time, giving you superhuman sight. 
 * **Thinking Model (LLM & AI Models):** JARVIS is equipped with advanced AI models and large language models, allowing it to reason, solve problems, and generate creative text formats,  like poems, code, scripts, musical pieces, email, letters, etc.  
-* **HUD Interface (VR Integration):** JARVIS seamlessly integrates with VR technology, creating a holographic user interface (HUD) for a truly immersive experience. 
 * **Automation:** JARVIS can automate tasks and processes, freeing you up to focus on more important things.
 * **Query (General/Realtime):** JARVIS can answer your questions in real-time,  access and process information from the real world through the internet, and  learn and adapt over time.
 * **Built-In/Advanced Frontend (HTML, CSS):** JARVIS boasts a customizable and user-friendly interface.
@@ -46,11 +46,13 @@ JARVIS is packed with a plethora of features that will transform your world, inc
 
 **JARVIS is still under development, but here are some of the many unique and rare features we're working on:**
 
+* **HUD Interface (VR Integration):** JARVIS seamlessly integrates with VR technology, creating a holographic user interface (HUD) for a truly immersive experience. 
 * **Sentience and Self-Awareness:** JARVIS will not just be a tool, but a true companion, capable of independent thought and feeling.
 * **Biometric Integration:** JARVIS will connect directly with your neural network, providing unprecedented levels of control and feedback.
 * **Matter Manipulation:** JARVIS will be able to manipulate the physical world at an atomic level, giving you the power to create anything you can imagine.
+  <br>
 
-**Contributing**
+# Contributing
 
 We welcome contributions from all aspiring Tony Starks! If you have the skills and the vision, we invite you to join us in building the future. Here are some ways you can contribute:
 
@@ -58,12 +60,13 @@ We welcome contributions from all aspiring Tony Starks! If you have the skills a
 * **Report bugs and suggest improvements.**
 * **Help us document JARVIS.**
 * **Spread the word about JARVIS on social media!**
+<be>
 
-**License**
+# License
 
 JARVIS is licensed under the MIT License.
 
-**Support**
+# Support
 
 Having trouble getting JARVIS up and running? No problem! We're here to help. You can get support by:
 
